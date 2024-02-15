@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mostafafarssiui@gmail.com**
 
-- ⚡ Fun fact **i take break by playing codingames**
+- ⚡ Fun fact **everythig is file**
 
 </td>
 <td width="50%" align="center">
