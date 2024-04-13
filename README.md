@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mostafafarssiui@gmail.com**
 
-- ⚡ Fun fact **everythig is file**
+- ⚡ Fun fact **everythig is a file**
 
 </td>
 <td width="50%" align="center">
