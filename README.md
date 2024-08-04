@@ -7,7 +7,7 @@
 <tr border="none">
 <td width="50%" align="left">
 
-- 🌱 I’m currently learning **how threads work's**
+- 🌱 I’m currently learning **how raycasting concept*
 
 - 🧑‍🎓 I’m an IT Student at **1337 (42 Network)**
 
