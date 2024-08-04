@@ -7,11 +7,11 @@
 <tr border="none">
 <td width="50%" align="left">
 
-- 🌱 I’m currently learning **how raycasting concept**
+- 🌱 I’m currently learning **raycasting concept**
 
 - 🧑‍🎓 I’m an IT Student at **1337 (42 Network)**
 
-- 💬 Ask me about **kernel | linux | c lang**
+- 💬 Ask me about **Shell | OOP | Raycasting**
 
 - 📫 How to reach me **mostafafarssiui@gmail.com**
 
