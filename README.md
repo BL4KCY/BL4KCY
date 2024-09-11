@@ -52,8 +52,9 @@
 ### 42 School Projects
 <div align="center">
 
-<a href="https://github.com/BL4KCY/libft">![42 Badge](https://github.com/BL4KCY/BL4KCY/blob/main/42_badges/libftn.png)</a>
-<a href="https://github.com/BL4KCY/Get_Next_Line">![42 Badge](https://github.com/BL4KCY/BL4KCY/blob/main/42_badges/get_next_linen.png)</a>
+<a href="https://github.com/BL4KCY/libft">![42 Badge](https://github.com/BL4KCY/BL4KCY/blob/main/42_badges/libfte.png)</a>
+<a href="https://github.com/BL4KCY/Get_Next_Line">![42 Badge](https://github.com/BL4KCY/BL4KCY/blob/main/42_badges/get_next_linem.png)</a>
+<a href="https://github.com/BL4KCY/Net_Practice">![42 Badge](https://github.com/BL4KCY/BL4KCY/blob/main/42_badges/netpracticem.png)</a>
 </div>
 
 ---
