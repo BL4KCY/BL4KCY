@@ -1,4 +1,4 @@
-<p align="center"><picture align="center"><img align="center" src = "img/devman.gif" width = 50px></picture></p>
+<p align="center"><picture align="center"><img align="center" src = "img/helloGithub.gif" width = 50px></picture></p>
 <h1 align="center">Hi 👋, I'm Mustapha Elfersioui</h1>
 <h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
 <p align="center"> <![](https://komarev.com/ghpvc/?username=BL4KCY)/> </p>
