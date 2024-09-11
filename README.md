@@ -53,7 +53,6 @@
 
 <a href="https://github.com/BL4KCY/libft">![42 Badge](https://github.com/BL4KCY/BL4KCY/blob/main/42_badges/libftn.png)</a>
 <a href="https://github.com/BL4KCY/Get_Next_Line">![42 Badge](https://github.com/BL4KCY/BL4KCY/blob/main/42_badges/get_next_linen.png)</a>
-<a href="
 </div>
 ---
 
