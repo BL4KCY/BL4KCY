@@ -29,26 +29,6 @@
 
 ---
 
-<h3 align="center">My Statistics:</h3>
-<p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=BL4KCY&show_icons=true&theme=dark&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com?user=BL4KCY&theme=dark&border_radius=5&exclude_days=Fri" />
-</td>
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BL4KCY&theme=dark&layout=donut"/>
-
-  </td>
-</tr>
-</table>
-
----
-
 ### 42 School Projects
 <div align="center">
 
@@ -66,6 +46,26 @@
 <a href="https://github.com/BL4KCY/cub3d">![42 Badge](https://github.com/BL4KCY/BL4KCY/blob/main/42_badges/cub3dm.png)</a>
 
 </div>
+
+---
+
+<h3 align="center">My Statistics:</h3>
+<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=BL4KCY&show_icons=true&theme=dark&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com?user=BL4KCY&theme=dark&border_radius=5&exclude_days=Fri" />
+</td>
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BL4KCY&theme=dark&layout=donut"/>
+
+  </td>
+</tr>
+</table>
 
 ---
 
