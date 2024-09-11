@@ -52,9 +52,19 @@
 ### 42 School Projects
 <div align="center">
 
-<a href="https://github.com/BL4KCY/libft">![42 Badge](https://github.com/BL4KCY/BL4KCY/blob/main/42_badges/libfte.png)</a>
+<a href="https://github.com/BL4KCY/libft">![42 Badge](https://github.com/BL4KCY/BL4KCY/blob/main/42_badges/libftn.png)</a>
 <a href="https://github.com/BL4KCY/Get_Next_Line">![42 Badge](https://github.com/BL4KCY/BL4KCY/blob/main/42_badges/get_next_linem.png)</a>
 <a href="https://github.com/BL4KCY/Net_Practice">![42 Badge](https://github.com/BL4KCY/BL4KCY/blob/main/42_badges/netpracticem.png)</a>
+<a href="https://github.com/BL4KCY/so_long">![42 Badge](https://github.com/BL4KCY/BL4KCY/blob/main/42_badges/so_longm.png)</a>
+<a href="https://github.com/BL4KCY/philosophers">![42 Badge](https://github.com/BL4KCY/BL4KCY/blob/main/42_badges/philosopherse.png)</a>
+<a href="https://github.com/BL4KCY/pipex">![42 Badge](https://github.com/BL4KCY/BL4KCY/blob/main/42_badges/pipexe.png)</a>
+<a href="https://github.com/BL4KCY/minishell">![42 Badge](https://github.com/BL4KCY/BL4KCY/blob/main/42_badges/minishelln.png)</a>
+<a href="https://github.com/BL4KCY/Cplusplus_Modules">![42 Badge](https://github.com/BL4KCY/BL4KCY/blob/main/42_badges/cppm.png)</a>
+<a href="https://github.com/BL4KCY/push_swap">![42 Badge](https://github.com/BL4KCY/BL4KCY/blob/main/42_badges/push_swapm.png)</a>
+<a href="https://github.com/BL4KCY/born2beroot">![42 Badge](https://github.com/BL4KCY/BL4KCY/blob/main/42_badges/born2berootn.png)</a>
+<a href="https://github.com/BL4KCY/ft_printf">![42 Badge](https://github.com/BL4KCY/BL4KCY/blob/main/42_badges/ft_printfe.png)</a>
+<a href="https://github.com/BL4KCY/cub3d">![42 Badge](https://github.com/BL4KCY/BL4KCY/blob/main/42_badges/cub3dm.png)</a>
+
 </div>
 
 ---
