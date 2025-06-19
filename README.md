@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Shell | OOP | Raycasting**
 
-- 📫 How to reach me **[linkedin](https://www.linkedin.com/in/mustaphaelfersioui/)**
+- 📫 How to reach me **[@mustaphaelfersioui](https://www.linkedin.com/in/mustaphaelfersioui/)**
 
 - ⚡ Fun fact **everythig is a file**
 
