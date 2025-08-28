@@ -11,7 +11,7 @@
 
 - 🧑‍🎓 I’m an IT Student at **1337 (42 Network)**
 
-- 💬 Ask me about **Shell | OOP | Raycasting**
+#- 💬 Ask me about **Shell | OOP | Raycasting**
 
 - 📫 How to reach me **[@mustaphaelfersioui](https://www.linkedin.com/in/mustaphaelfersioui/)**
 
