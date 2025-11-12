@@ -7,15 +7,15 @@
 <tr border="none">
 <td width="50%" align="left">
 
-- 🌱 I’m currently learning **docker**
+- 🌱 I’m currently learning **web Devlopment && devops**
 
 - 🧑‍🎓 I’m an IT Student at **1337 (42 Network)**
 
-#- 💬 Ask me about **Shell | OOP | Raycasting**
+#- 💬 Ask me about **Docker | OOP | Microservices**
 
 - 📫 How to reach me **[@mustaphaelfersioui](https://www.linkedin.com/in/mustaphaelfersioui/)**
 
-- ⚡ Fun fact **everythig is a file**
+- ⚡ Fun fact **everythig in Linux is a file**
 
 </td>
 <td width="50%" align="center">
